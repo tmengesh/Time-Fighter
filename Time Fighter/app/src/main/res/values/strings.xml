@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TFighter</string>
+    <string name="yourScore">You Score: %1$d</string>
+    <string name="timeLeft">Time Left: %1$d</string>
+    <string name="tapMe">TAP ME!</string>
+    <string name="gameOverMessage">Time is up! your score was: %1$d</string>
+    <string name="aboutMenu">About</string>
+    <string name="aboutTitle">Time Fighter</string>
+    <string name="aboutMessage">Created by Tewodros Mengesha</string>
+</resources>
